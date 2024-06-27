@@ -173,7 +173,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      context.pushNamed('Contact');
+                      context.pushNamed('About');
                     },
                     child: Row(
                       mainAxisSize: MainAxisSize.max,
