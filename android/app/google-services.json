@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481466542722",
+    "project_id": "galeriejosephine-e3f60",
+    "storage_bucket": "galeriejosephine-e3f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481466542722:android:1ab3f2a1c416aac4ad629b",
+        "android_client_info": {
+          "package_name": "com.mycompany.galeriejosephine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnf1m0KNdg6U9APbAfuT5qaozj0_bnCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
